@@ -108,6 +108,24 @@
       "currency": "$",
       "discription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur fugit provident qui maiores.",
       "img": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/44d0821e0ef635fbb459d44156fe501c/Derivates/03ddcb95a40648b24410d7f62ba22d42c6a1b78c.jpg"
+    },
+    {
+      "id": 13,
+      "category": "From the Kitchen",
+      "dish": "Club Sandwich",
+      "price": 9.99,
+      "currency": "$",
+      "discription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur fugit provident qui maiores.",
+      "img": "https://cdn7.kiwilimonrecipes.com/brightcove/8634/8634.jpg"
+    },
+    {
+      "id": 14,
+      "category": "From the Kitchen",
+      "dish": "Pizza Sandwich",
+      "price": 9.99,
+      "currency": "$",
+      "discription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur fugit provident qui maiores.",
+      "img": "https://stordfkenticomedia.blob.core.windows.net/df-us/rms/media/recipesmedia/recipes/retail/x17/2013/apr/18470-grilled-cheese-pizza-sandwich-600x600.jpg?ext=.jpg"
     }
     
     
